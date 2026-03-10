@@ -1,5 +1,4 @@
-# 👋 Salut, moi c'est Fares Baraket
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=6C9EF7&center=true&vCenter=true&width=600&lines=👋+Salut%2C+moi+c'est+Fares+Baraket)](https://git.io/typing-svg)
 <div align="center">
 
 🎓 Étudiant en Bachelor Informatique **@ SUPINFO Lyon**
@@ -64,9 +63,8 @@
 
 <div align="center">
 
-![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=BARAKETFares&show_icons=true&theme=tokyonight&hide_border=true&locale=fr)
+![GitHub Streak](https://streak-stats.demolab.com?user=BARAKETFares&theme=tokyonight&hide_border=true&locale=fr&date_format=j%20M%5B%20Y%5D)
 
-![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=BARAKETFares&layout=compact&theme=tokyonight&hide_border=true&locale=fr)
 
 </div>
 
